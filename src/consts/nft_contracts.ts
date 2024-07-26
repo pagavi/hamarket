@@ -25,7 +25,7 @@ export const NFT_CONTRACTS: NftContract[] = [
     chain: myChain,
     title: "The Ham LP",
     thumbnailUrl:
-      "https://hot-nft.infura-ipfs.io/ipfs/QmdgVptZDEJRmM7JZVvqpNAoRnidBGT8WKumcWQjR3kK4D/download.svg"
+      "https://hot-nft.infura-ipfs.io/ipfs/QmdgVptZDEJRmM7JZVvqpNAoRnidBGT8WKumcWQjR3kK4D/download.svg",
     type: "ERC721",
   },
  
