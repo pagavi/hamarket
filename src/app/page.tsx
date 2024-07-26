@@ -75,9 +75,9 @@ export default function Home() {
 }
 const _latestUpdates: Array<{ title: string; bullet_points: string[] }> = [
   {
-    title: "MINT",
+    title: "beta",
     bullet_points: [
-      "https://bichon.andog.xyz",
+      "https://ham.fun/",
     ],
   },
 ]
