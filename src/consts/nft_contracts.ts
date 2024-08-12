@@ -32,7 +32,16 @@ export const NFT_CONTRACTS: NftContract[] = [
     
     address: "0x9a047d14e28c27864ADd495681Edc20D1C577F83",
     chain: myChain,
-    title: "The Ham LP",
+    title: "HAMsters",
+    thumbnailUrl:
+      "https://hot-nft.infura-ipfs.io/ipfs/QmdgVptZDEJRmM7JZVvqpNAoRnidBGT8WKumcWQjR3kK4D/download.svg",
+    type: "ERC721",
+  },
+   {
+    
+    address: "0x9E413ACe945939234911Eee308a1e35Ae0f55dA6",
+    chain: myChain,
+    title: "AngelDogs",
     thumbnailUrl:
       "https://hot-nft.infura-ipfs.io/ipfs/QmdgVptZDEJRmM7JZVvqpNAoRnidBGT8WKumcWQjR3kK4D/download.svg",
     type: "ERC721",
